@@ -1,5 +1,5 @@
 {
-    "version": "1.55",
+    "version": "1.56",
     "homepage": "https://www.nirsoft.net/utils/alternate_data_streams.html",
     "bin": "AlternateStreamView.exe",
     "shortcuts": [
@@ -11,11 +11,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/utils/alternatestreamview-x64.zip",
-            "hash": "834106f2145fe6587bb1beac75576b3b823482860e0309a2ee2e0417f220b449"
+            "hash": "9b7d09b3db143585b3ff06fedf954a2ae8d40a704952620927420cddc28759e3"
         },
         "32bit": {
             "url": "https://www.nirsoft.net/utils/alternatestreamview.zip",
-            "hash": "01f7212a8d389fc53769065d532580839330d302f063e31489cef59a61f367bb"
+            "hash": "81002363eaf793c149927677a2ccb073554e632013c0b3b1d231b4590c78fb73"
         }
     },
     "description": "Find all hidden alternate streams stored in the file system.",

@@ -1,5 +1,5 @@
 {
-    "version": "1.11",
+    "version": "1.12",
     "homepage": "https://www.nirsoft.net/utils/network_connect_log.html",
     "url": "https://www.nirsoft.net/utils/networkconnectlog.zip",
     "bin": "NetworkConnectLog.exe",
@@ -9,7 +9,7 @@
             "NirSoft\\NetworkConnectLog"
         ]
     ],
-    "hash": "6e5a2d916e180f31a3a7bd9090e127da89b2855f6819097a3a4c47297638c9c0",
+    "hash": "c3c8f47fd6bcaf911acb5edfeaa2d823dd85bec78e1219262cf09e8f29a6f758",
     "description": "Shows a log of connected/disconnected computers on your network.",
     "license": "Freeware",
     "notes": "If this application is useful to you, please consider donating to nirsoft.",
